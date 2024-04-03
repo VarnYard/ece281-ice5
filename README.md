@@ -27,3 +27,12 @@ env:
 If successful then GHDL will quietly exit with a `0` code.
 If any of the `assert` statements fail **with** `severity failure` then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels, such as "error" w
+
+
+
+![image](https://github.com/VarnYard/ece281-ice5/assets/142039672/4c93ab7a-96bf-4c6f-aa23-9668e6e56e51)
+
+
+
+## Documentation 
+  I used ChatOpenAI to troubleshoot an error with f_Q_next being "multiply" declared. I also worked with C3C Raghulan and Major Seery to write my process. 
