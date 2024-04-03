@@ -29,8 +29,8 @@ If any of the `assert` statements fail **with** `severity failure` then GHDL wil
 Assert statements of other severity levels, such as "error" w
 
 
+![image](https://github.com/VarnYard/ece281-ice5/assets/142039672/aaae697e-0f0e-4a1a-9e06-444f0cc60910)
 
-![image](https://github.com/VarnYard/ece281-ice5/assets/142039672/4c93ab7a-96bf-4c6f-aa23-9668e6e56e51)
 
 
 
